@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#kontener{
+    width: 90%;
+	margin: auto;
+}
+
+#logo, 
+#menu{
+    background: rgb(126, 107, 231);
+	height: 200px;
+	width: 50%;
+	float: left;
+}
+#baner {
+	background: #eee2e2;
+	height: 200px;
+	clear: both;
+}
+
+#glówny {
+	color: black;
+	margin: 50px;
+	height: 350px;
+}
+
+#stopka {
+	text-align: right;
+	background-color: rgb(126, 107, 231);
+    width: auto;
+	padding: 40px;
+}
+
+#menu a {
+	color: black;
+	font-size: 150%;
+    padding: 5px;
+    margin: 10px;
+    font-weight: bold;
+}
+
